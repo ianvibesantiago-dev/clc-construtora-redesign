@@ -2,7 +2,7 @@
 
 > Proposta de redesign **não oficial** para o site de uma construtora de obras pesadas do Nordeste: mais visual, animado e com cara de canteiro de obra.
 
-**🔗 Demo:** _em breve_ · **Nicho:** Construção pesada · Infraestrutura
+**🔗 Demo:** [clc-construtora-redesign.vercel.app](https://clc-construtora-redesign.vercel.app) · **Nicho:** Construção pesada · Infraestrutura
 
 > ⚠️ **Projeto conceitual de portfólio.** Não é o site oficial da CLC Construtora e não tem vínculo com a empresa. As fotos são do Unsplash e o logotipo foi recriado em texto. A página está marcada como `noindex` para não aparecer nos buscadores.
 
